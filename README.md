@@ -5,3 +5,4 @@
 ### [手寫字辨識](https://github.com/la0221/Colab_tensorflow/tree/main/mnist) 
 ### [fashion mnist](https://github.com/la0221/Colab_tensorflow/tree/main/fashion_mnist)
 
+進度緩慢更新中
